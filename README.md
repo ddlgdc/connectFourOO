@@ -1,2 +1,0 @@
-# connectFourOO
-Connect Four Refactoring 
